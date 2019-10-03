@@ -22,7 +22,7 @@ public class Block extends Piece {
     public void draw(Graphics g) {
         g.setColor(this.color);
         g.fillRect(this.x, this.y, this.width, this.height);
-    }
+    }// sei lá
 
     
 }
